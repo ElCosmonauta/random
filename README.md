@@ -1,0 +1,1 @@
+Esto es un archivo README de prueba para el proyecto RANDOM del curso MIRIADAX. Junio 2015
